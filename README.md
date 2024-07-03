@@ -22,8 +22,17 @@
 Chúc anh em học tốt, điểm cao, không phải học lại và ra trường xong có việc làm ngay!
 
 
+# LƯU Ý
+- Có thể trong tương lai Coursera sẽ update khiến file code sẵn không đủ giúp anh em pass thì đây là cách lấy lại file notebook gốc:
+  + Bước 1: Click vào logo Jupyter
+  + Bước 2: Xóa file Assignment.ipynb
+  + Bước 3: Click vào phần "Help" có hình dấu ? trong vòng tròn ở góc trên bên phải màn hình
+  + Bước 4: Chọn "Get latest version" và "Update lab"
+- Đôi khi code chỉ thay đổi syntax hay flow một chút, anh em mở file code sẵn ra đọc và so sánh với file code mới là có thể tự sửa được
+
+
 # CẬP NHẬT
-Nếu Coursera update thì anh em cứ tạo Issue trên Github, mình sẽ cố gẳng sửa và cập nhật đến khi không còn ai học môn này nữa thì thôi!
+Nếu Coursera update khiến file code sẵn bị sai thì anh em cứ tạo Issue trên Github, mình sẽ cố gẳng sửa và cập nhật đến khi không còn ai học môn này nữa thì thôi!
 
 - 03/07/2024:
   + Khởi tạo repo và kiểm tra tất cả các file code
