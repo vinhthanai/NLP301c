@@ -1,5 +1,5 @@
 # NLP301c for FPT AI
-Gửi đến anh em FPT AI trọn bộ file code điểm tuyệt đối của khóa Coursera môn NLP301c kèm theo đó là hướng dẫn chi tiết cách submit file code sẵn khỏi cần đọc từng file copy paste từng dòng
+- Gửi đến anh em FPT AI trọn bộ file code điểm tuyệt đối của khóa Coursera môn NLP301c kèm theo đó là hướng dẫn chi tiết cách submit file code sẵn khỏi cần đọc từng file copy paste từng dòng
 <img src="https://github.com/vinhthanai/NLP301c/blob/main/images/Grade%20Achieved.png">
 
 
