@@ -34,6 +34,6 @@ Chúc anh em học tốt, điểm cao, không phải học lại và ra trườn
 # CẬP NHẬT
 Nếu Coursera update khiến file code sẵn bị sai thì anh em cứ tạo Issue trên Github, mình sẽ cố gẳng sửa và cập nhật đến khi không còn ai học môn này nữa thì thôi!
 
-- 03/07/2024:
-  + Khởi tạo repo và kiểm tra tất cả các file code
-  + Điểm tuyệt đối 100% tất cả các Course
+- 03/07/2024: Khởi tạo repo và kiểm tra tất cả các file code
+
+- 25/10/2024: Update file C1_W3 và C3_W3 do Courera thay đổi syntax
